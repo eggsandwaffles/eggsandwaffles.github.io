@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/eggsandwaffles/eggsandwaffles.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <title>Brian's Got Skills</title>
+    <link href="css/custom.css" rel="stylesheet">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <nav>
+        <ul>
+            <li style="display:inline">About me -- </li>
+            <li style="display:inline">About my skills -- </li>
+            <li style="display:inline">My projects -- </li>
+        </ul>
+    </nav>
+    <div id="mainContent">
+        <hgroup>
+            <h1>Programming / Networking / Security</h1>
+            <h2>Brian Mooney</h2>
+        </hgroup>
+        <aside style="float:right; padding-bottom:6em;padding-right:2em;">
+            <ul>
+                <li><a href="#">Link to a related page</a></li>
+                <li><a href="#">Link to a related page</a></li>
+            </ul>
+        </aside>
+        <article>
+            <h2>Me</h2>
+            <!--- <img src="me.jpg" alt="ME" style="width:304px;height:228px;"> --->
+            <p>JAVA</p>
+            <p>PYTHON</p>
+            <p>HTML, CSS, PHP</p>
+            <p>VISUAL BASIC</p>
+            <p>NETWORKING</p>
+            <p>SECURITY</p>
+            <p>What do I like besides computers? Brewing Kombucha and Jun, baseball and soccer</p>
+        </article>
+        <footer>
+            <h4>Brian Mooney</h4>
+            <address>ASUMH<br/> Mtn. Home, AR 72653</address>
+        </footer>
+    </div>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eggsandwaffles/eggsandwaffles.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
